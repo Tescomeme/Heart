@@ -18,6 +18,15 @@ h1 {
     color: #ccc;
 }
 
+.click{
+    display: block;
+    position: absolute;
+}
+
+.click.click-js{
+    display: none;
+}
+
 .gray-heart {
     background: #ccc;
     display: flex;
